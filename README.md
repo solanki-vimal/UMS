@@ -8,7 +8,7 @@ This is a **static front-end project** for a University Management System – **
 
 You can view the student dashboard UI by visiting the following link:
 
-🔗 [Live Demo](https://vimalsolanki2006.github.io/UMS/)  
+🔗 [Live Demo](https://solanki-vimal.github.io/UMS/)  
 
 ---
 
@@ -96,7 +96,7 @@ Use the following credentials to log in:
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/vimalsolanki2006/UMS.git
+   git clone https://github.com/solanki-vimal/UMS.git
    ```
 2. Open any HTML file in a browser (e.g., `index.html` or `student.html`).
 3. Navigate between pages using available buttons or manually through the file structure.
@@ -123,5 +123,6 @@ Use the following credentials to log in:
 
 ## 📌 Author
 
-- 🔗 GitHub: [vimalsolanki2006](https://github.com/vimalsolanki2006)
+- 🔗 GitHub: [solanki-vimal](https://github.com/solanki-vimal)
+- 🔗 LinkedIn: [solanki-vimal](https://www.linkedin.com/in/solanki-vimal/)
 - 🏫 Student, DDU College – Computer Engineering
